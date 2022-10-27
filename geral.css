@@ -1,1 +1,36 @@
-
+#calculadora {
+    background: yellow;
+    width: 181px;
+    padding: 22px;
+    border-radius: 35px;
+}
+#calculadora input {
+    background: orange;
+    color: black;
+    border-radius: 35px;
+    padding: 5px;
+}
+#calculadora button {
+    background: orange;
+    color: black;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 35px;
+}
+#calculadora button:hover {
+    background: whitesmoke;
+    color: blue;
+    cursor: ew-resize;
+}
+#spTotal {
+    background: rgb(0, 0, 0);
+    color: orange;
+    border-radius: 35px;
+    padding: 5px;
+}
+.spLista {
+    background: blue;
+    border-radius: 35px;
+    color: whitesmoke;
+    width: 181px;
+}
