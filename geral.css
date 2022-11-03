@@ -3,6 +3,10 @@
     width: 181px;
     padding: 22px;
     border-radius: 35px;
+    box-shadow: 5px 5px black;
+    position: absolute;
+    left: 38%;
+    top: 10%;
 }
 #calculadora input {
     background: orange;
@@ -29,8 +33,8 @@
     padding: 5px;
 }
 .spLista {
-    background: blue;
-    border-radius: 35px;
+    background: black;
+    border-radius: 5px;
     color: whitesmoke;
     width: 181px;
 }
