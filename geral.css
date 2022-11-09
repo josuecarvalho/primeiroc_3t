@@ -38,3 +38,12 @@
     color: whitesmoke;
     width: 181px;
 }
+.calcF {
+    display: none;
+}
+#calcFin:checked + #calculadora .calcF {
+    display: block;
+}
+#calcFin {
+    display: none;
+}
