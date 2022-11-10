@@ -7,12 +7,7 @@
     position: absolute;
     left: 38%;
     top: 10%;
-}
-#calculadora input {
-    background: orange;
-    color: black;
-    border-radius: 35px;
-    padding: 5px;
+
 }
 #calculadora button {
     background: orange;
@@ -46,4 +41,15 @@
 }
 #calcFin {
     display: none;
+}
+
+#calculadoraESG {
+    background: yellow;
+    width: 181px;
+    padding: 22px;
+    border-radius: 35px;
+    box-shadow: 5px 5px black;
+    position: absolute;
+    left: 38%;
+    top: 10%;
 }
